@@ -84,7 +84,7 @@
     "string-argv": "^0.3.2",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.0",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.0"
   },
   "lint-staged": {
     "*.{js,ts}": "eslint --fix",
